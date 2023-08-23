@@ -1,5 +1,5 @@
 # MvcCv
-Mvc5 ile Sıfırdan Admin Panelli Dinamik CV Sitesi
+ASP.NET Mvc5 ile Sıfırdan Admin Panelli Dinamik CV Sitesi
 
 ![1](https://github.com/sukruu/MvcCv/assets/31570515/361a1fdc-9915-4e15-936b-ee81d6c6409e)
 ![2](https://github.com/sukruu/MvcCv/assets/31570515/da9ab50f-e3cd-47f9-8b42-5401be004744)
